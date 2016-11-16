@@ -1,0 +1,148 @@
+len=4 r = DCBA ans_bef=DCBA ans_aft = DCBA
+DCBA
+len=4 r = CDBA ans_bef=DCBA ans_raft = CDBA
+len=4 r = CBDA ans_bef=CBDA ans_aft = CBDA
+len=4 r = CBAD ans_bef=CBAD ans_aft = CBAD
+len=4 r = CDBA ans_bef=CDBA ans_aft = CDBA
+CDBA
+len=4 r = DCBA ans_bef=DCBA ans_aft = DCBA
+len=4 r = DBCA ans_bef=DBCA ans_aft = DBCA
+len=4 r = DBAC ans_bef=DBAC ans_aft = DBAC
+len=4 r = BDCA ans_bef=BDCA ans_aft = BDCA
+BDCA
+len=4 r = DBCA ans_bef=DBCA ans_aft = DBCA
+len=4 r = DCBA ans_bef=DCBA ans_aft = DCBA
+len=4 r = DCAB ans_bef=DCAB ans_aft = DCAB
+len=4 r = ADCB ans_bef=ADCB ans_aft = ADCB
+ADCB
+len=4 r = DACB ans_bef=DACB ans_aft = DACB
+len=4 r = DCAB ans_bef=DCAB ans_aft = DCAB
+len=4 r = DCBA ans_bef=DCBA ans_aft = DCBA
+DCBA
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+XYZZYZZ
+len=7 r = YXZZYZZ ans_bef=YXZZYZZ ans_aft = YXZZYZZ
+len=7 r = YZXZYZZ ans_bef=YZXZYZZ ans_aft = YZXZYZZ
+len=7 r = YZZXYZZ ans_bef=YZZXYZZ ans_aft = YZZXYZZ
+len=7 r = YZZYXZZ ans_bef=YZZYXZZ ans_aft = YZZYXZZ
+len=7 r = YZZYZXZ ans_bef=YZZYZXZ ans_aft = YZZYZXZ
+len=7 r = YZZYZZX ans_bef=YZZYZZX ans_aft = YZZYZZX
+len=7 r = YXZZYZZ ans_bef=YXZZYZZ ans_aft = YXZZYZZ
+YXZZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XZYZYZZ ans_bef=XZYZYZZ ans_aft = XZYZYZZ
+len=7 r = XZZYYZZ ans_bef=XZZYYZZ ans_aft = XZZYYZZ
+len=7 r = XZZYYZZ ans_bef=XZZYYZZ ans_aft = XZZYYZZ
+len=7 r = XZZYZYZ ans_bef=XZZYZYZ ans_aft = XZZYZYZ
+len=7 r = XZZYZZY ans_bef=XZZYZZY ans_aft = XZZYZZY
+len=7 r = ZXYZYZZ ans_bef=ZXYZYZZ ans_aft = ZXYZYZZ
+ZXYZYZZ
+len=7 r = XZYZYZZ ans_bef=XZYZYZZ ans_aft = XZYZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = ZXYZYZZ ans_bef=ZXYZYZZ ans_aft = ZXYZYZZ
+ZXYZYZZ
+len=7 r = XZYZYZZ ans_bef=XZYZYZZ ans_aft = XZYZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = YXYZZZZ ans_bef=YXYZZZZ ans_aft = YXYZZZZ
+YXYZZZZ
+len=7 r = XYYZZZZ ans_bef=XYYZZZZ ans_aft = XYYZZZZ
+len=7 r = XYYZZZZ ans_bef=XYYZZZZ ans_aft = XYYZZZZ
+len=7 r = XYZYZZZ ans_bef=XYZYZZZ ans_aft = XYZYZZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZZZY ans_bef=XYZZZZY ans_aft = XYZZZZY
+len=7 r = ZXYZZYZ ans_bef=ZXYZZYZ ans_aft = ZXYZZYZ
+ZXYZZYZ
+len=7 r = XZYZZYZ ans_bef=XZYZZYZ ans_aft = XZYZZYZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = ZXYZZYZ ans_bef=ZXYZZYZ ans_aft = ZXYZZYZ
+ZXYZZYZ
+len=7 r = XZYZZYZ ans_bef=XZYZZYZ ans_aft = XZYZZYZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZZYZ ans_bef=XYZZZYZ ans_aft = XYZZZYZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+len=7 r = XYZZYZZ ans_bef=XYZZYZZ ans_aft = XYZZYZZ
+XYZZYZZ
+len=3 r = CAA ans_bef=CAA ans_aft = CAA
+CAA
+len=3 r = ACA ans_bef=ACA ans_aft = ACA
+len=3 r = AAC ans_bef=AAC ans_aft = AAC
+len=3 r = ACA ans_bef=ACA ans_aft = ACA
+ACA
+len=3 r = CAA ans_bef=CAA ans_aft = CAA
+len=3 r = CAA ans_bef=CAA ans_aft = CAA
+len=3 r = ACA ans_bef=ACA ans_aft = ACA
+ACA
+len=3 r = CAA ans_bef=CAA ans_aft = CAA
+len=3 r = CAA ans_bef=CAA ans_aft = CAA
+CAA
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+BDEABAC
+len=7 r = DBEABAC ans_bef=DBEABAC ans_aft = DBEABAC
+len=7 r = DEBABAC ans_bef=DEBABAC ans_aft = DEBABAC
+len=7 r = DEABBAC ans_bef=DEABBAC ans_aft = DEABBAC
+len=7 r = DEABBAC ans_bef=DEABBAC ans_aft = DEABBAC
+len=7 r = DEABABC ans_bef=DEABABC ans_aft = DEABABC
+len=7 r = DEABACB ans_bef=DEABACB ans_aft = DEABACB
+len=7 r = DBEABAC ans_bef=DBEABAC ans_aft = DBEABAC
+DBEABAC
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+len=7 r = BEDABAC ans_bef=BEDABAC ans_aft = BEDABAC
+len=7 r = BEADBAC ans_bef=BEADBAC ans_aft = BEADBAC
+len=7 r = BEABDAC ans_bef=BEABDAC ans_aft = BEABDAC
+len=7 r = BEABADC ans_bef=BEABADC ans_aft = BEABADC
+len=7 r = BEABACD ans_bef=BEABACD ans_aft = BEABACD
+len=7 r = EBDABAC ans_bef=EBDABAC ans_aft = EBDABAC
+EBDABAC
+len=7 r = BEDABAC ans_bef=BEDABAC ans_aft = BEDABAC
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+len=7 r = BDAEBAC ans_bef=BDAEBAC ans_aft = BDAEBAC
+len=7 r = BDABEAC ans_bef=BDABEAC ans_aft = BDABEAC
+len=7 r = BDABAEC ans_bef=BDABAEC ans_aft = BDABAEC
+len=7 r = BDABACE ans_bef=BDABACE ans_aft = BDABACE
+len=7 r = ABDEBAC ans_bef=ABDEBAC ans_aft = ABDEBAC
+ABDEBAC
+len=7 r = BADEBAC ans_bef=BADEBAC ans_aft = BADEBAC
+len=7 r = BDAEBAC ans_bef=BDAEBAC ans_aft = BDAEBAC
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+len=7 r = BDEBAAC ans_bef=BDEBAAC ans_aft = BDEBAAC
+len=7 r = BDEBAAC ans_bef=BDEBAAC ans_aft = BDEBAAC
+len=7 r = BDEBACA ans_bef=BDEBACA ans_aft = BDEBACA
+len=7 r = BBDEAAC ans_bef=BBDEAAC ans_aft = BBDEAAC
+BBDEAAC
+len=7 r = BBDEAAC ans_bef=BBDEAAC ans_aft = BBDEAAC
+len=7 r = BDBEAAC ans_bef=BDBEAAC ans_aft = BDBEAAC
+len=7 r = BDEBAAC ans_bef=BDEBAAC ans_aft = BDEBAAC
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+len=7 r = BDEAABC ans_bef=BDEAABC ans_aft = BDEAABC
+len=7 r = BDEAACB ans_bef=BDEAACB ans_aft = BDEAACB
+len=7 r = ABDEABC ans_bef=ABDEABC ans_aft = ABDEABC
+ABDEABC
+len=7 r = BADEABC ans_bef=BADEABC ans_aft = BADEABC
+len=7 r = BDAEABC ans_bef=BDAEABC ans_aft = BDAEABC
+len=7 r = BDEAABC ans_bef=BDEAABC ans_aft = BDEAABC
+len=7 r = BDEAABC ans_bef=BDEAABC ans_aft = BDEAABC
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+len=7 r = BDEABCA ans_bef=BDEABCA ans_aft = BDEABCA
+len=7 r = CBDEABA ans_bef=CBDEABA ans_aft = CBDEABA
+CBDEABA
+len=7 r = BCDEABA ans_bef=BCDEABA ans_aft = BCDEABA
+len=7 r = BDCEABA ans_bef=BDCEABA ans_aft = BDCEABA
+len=7 r = BDECABA ans_bef=BDECABA ans_aft = BDECABA
+len=7 r = BDEACBA ans_bef=BDEACBA ans_aft = BDEACBA
+len=7 r = BDEABCA ans_bef=BDEABCA ans_aft = BDEABCA
+len=7 r = BDEABAC ans_bef=BDEABAC ans_aft = BDEABAC
+BDEABAC
